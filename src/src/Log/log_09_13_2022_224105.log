@@ -1,0 +1,20 @@
+2022-Sep-13 22:41:05,426 [TestNG-tests-2] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-13 22:41:05,426 [TestNG-tests-3] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-13 22:41:05,426 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-13 22:41:31,703 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-13 22:41:38,500 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-13 22:41:45,290 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-13 22:41:48,267 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-13 22:41:50,414 [TestNG-tests-3] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-13 22:41:51,621 [TestNG-tests-2] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-13 22:41:51,720 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 

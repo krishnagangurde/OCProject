@@ -1,0 +1,20 @@
+2022-Sep-03 15:42:16,013 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 15:42:19,767 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 15:42:20,302 [main] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-03 15:42:24,554 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-03 15:42:25,830 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 15:42:29,700 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 15:42:29,701 [main] com.iris22a.womentest.WomenTest 
+  INFO  myntra url launched
+2022-Sep-03 15:42:29,899 [main] com.iris22a.womentest.WomenTest 
+  INFO  hover on women menu
+2022-Sep-03 15:42:33,636 [main] com.iris22a.womentest.WomenTest 
+  INFO  click on indian & fusionwear
+2022-Sep-03 15:42:34,041 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

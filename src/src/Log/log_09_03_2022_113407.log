@@ -1,0 +1,36 @@
+2022-Sep-03 11:34:07,818 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:34:07,818 [TestNG-tests-2] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:34:07,818 [TestNG-tests-3] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:34:15,935 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:34:17,092 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:34:20,893 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:34:21,930 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-03 11:34:23,996 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:34:29,863 [TestNG-tests-3] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:34:30,022 [TestNG-tests-2] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:34:39,304 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:34:41,032 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:34:41,702 [TestNG-tests-2] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-03 11:34:41,786 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-03 11:34:51,323 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:34:52,367 [TestNG-tests-2] com.iris22a.pages.HomePage 
+  INFO  click om menTshirt
+2022-Sep-03 11:34:53,231 [TestNG-tests-3] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-03 11:34:56,579 [TestNG-tests-2] com.iris22a.pages.menTShirtsPage 
+  INFO  mousemove to sortByfilter

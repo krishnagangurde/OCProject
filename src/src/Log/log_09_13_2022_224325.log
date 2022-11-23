@@ -1,0 +1,16 @@
+2022-Sep-13 22:43:02,638 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-13 22:43:03,820 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-13 22:43:04,464 [TestNG-tests-2] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-13 22:43:04,599 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-13 22:43:04,714 [TestNG-tests-1] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-13 22:43:23,328 [TestNG-tests-2] com.iris22a.pages.HomePage 
+  INFO  click om menTshirt
+2022-Sep-13 22:43:23,524 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-13 22:43:25,764 [TestNG-tests-3] com.iris22a.config.TestBase 
+  INFO  Chrome is open 

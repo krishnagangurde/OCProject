@@ -1,0 +1,26 @@
+2022-Sep-03 15:57:28,006 [TestNG-tests-3] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 15:57:28,006 [TestNG-tests-2] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 15:57:28,060 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 15:57:34,366 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 15:57:35,076 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-03 15:57:35,501 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-03 15:57:37,238 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 15:57:37,514 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 15:57:42,515 [TestNG-tests-3] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 15:57:43,117 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 15:57:43,117 [TestNG-tests-1] com.iris22a.womentest.WomenTest 
+  INFO  myntra url launched
+2022-Sep-03 15:57:43,965 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-03 15:57:52,133 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

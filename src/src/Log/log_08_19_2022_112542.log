@@ -1,0 +1,14 @@
+2022-Aug-19 11:25:31,064 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Aug-19 11:25:35,010 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Aug-19 11:25:35,290 [main] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Aug-19 11:25:39,072 [main] com.iris22a.pages.HomePage 
+  INFO  click om menTshirt
+2022-Aug-19 11:25:39,222 [main] com.iris22a.pages.menTShirtsPage 
+  INFO  mousemove to sortByfilter
+2022-Aug-19 11:25:39,417 [main] com.iris22a.pages.menTShirtsPage 
+  INFO  click on popularityfilter
+2022-Aug-19 11:25:42,209 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

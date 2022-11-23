@@ -1,0 +1,28 @@
+2022-Sep-03 11:32:21,205 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:32:25,338 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:32:26,114 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-03 11:32:27,519 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:32:31,533 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:32:32,113 [main] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-03 11:32:37,287 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-03 11:32:38,668 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:32:43,029 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:32:43,293 [main] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-03 11:32:48,867 [main] com.iris22a.pages.HomePage 
+  INFO  click om menTshirt
+2022-Sep-03 11:32:49,040 [main] com.iris22a.pages.menTShirtsPage 
+  INFO  mousemove to sortByfilter
+2022-Sep-03 11:32:49,267 [main] com.iris22a.pages.menTShirtsPage 
+  INFO  click on popularityfilter
+2022-Sep-03 11:32:49,440 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

@@ -1,0 +1,10 @@
+2022-Sep-10 12:52:02,639 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-10 12:52:02,648 [main] com.iris22a.womentest.WomenTest 
+  INFO  myntra url launched
+2022-Sep-10 12:52:02,969 [main] com.iris22a.womentest.WomenTest 
+  INFO  hover on women menu
+2022-Sep-10 12:52:07,096 [main] com.iris22a.womentest.WomenTest 
+  INFO  click on indian & fusionwear
+2022-Sep-10 12:52:07,312 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

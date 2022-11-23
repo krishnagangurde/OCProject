@@ -1,0 +1,18 @@
+2022-Sep-03 11:35:01,521 [TestNG-tests-3] com.iris22a.pages.HomePage 
+  INFO  click om menTshirt
+2022-Sep-03 11:35:04,375 [TestNG-tests-2] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-03 11:35:08,985 [TestNG-tests-1] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-03 11:35:16,801 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-03 11:35:17,047 [TestNG-tests-1] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-03 11:35:23,172 [TestNG-tests-1] com.iris22a.pages.HomePage 
+  INFO  click om menTshirt
+2022-Sep-03 11:35:23,335 [TestNG-tests-1] com.iris22a.pages.menTShirtsPage 
+  INFO  mousemove to sortByfilter
+2022-Sep-03 11:35:23,588 [TestNG-tests-1] com.iris22a.pages.menTShirtsPage 
+  INFO  click on popularityfilter
+2022-Sep-03 11:35:23,775 [TestNG-tests-1] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

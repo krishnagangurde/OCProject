@@ -1,0 +1,18 @@
+2022-Sep-10 13:36:40,537 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-10 13:36:44,277 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-10 13:36:44,855 [main] com.iris22a.keyword.UIKeywords 
+  INFO  Enter button has press 
+2022-Sep-10 13:36:50,133 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
+2022-Sep-10 13:36:51,324 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Sep-10 13:36:55,370 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-10 13:36:55,371 [main] com.iris22a.womentest.WomenTest 
+  INFO  myntra url launched
+2022-Sep-10 13:36:55,633 [main] com.iris22a.womentest.WomenTest 
+  INFO  hover on women menu
+2022-Sep-10 13:36:58,410 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

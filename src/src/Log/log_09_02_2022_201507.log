@@ -1,0 +1,8 @@
+2022-Sep-02 20:15:00,419 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Sep-02 20:15:00,699 [main] com.iris22a.pages.HomePage 
+  INFO  mouse move to men menu
+2022-Sep-02 20:15:05,461 [main] com.iris22a.pages.HomePage 
+  INFO  click om menFormalshirts
+2022-Sep-02 20:15:07,997 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully

@@ -1,0 +1,6 @@
+2022-Aug-26 22:17:03,014 [main] com.iris22a.config.TestBase 
+  INFO  Chrome is open 
+2022-Aug-26 22:17:05,067 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is launched https://www.myntra.com
+2022-Aug-26 22:17:18,891 [main] com.iris22a.keyword.UIKeywords 
+  INFO  url is closed succefully
